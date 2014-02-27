@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FontToColorList>
+  <Fonts>Private</Fonts>
+  <Fonts>Public</Fonts>
+  <Fonts>Dim</Fonts>
+  <Fonts>Imports</Fonts>
+  <Fonts>Class</Fonts>
+  <Fonts>Function</Fonts>
+  <Fonts>Sub</Fonts>
+  <Fonts>Property</Fonts>
+  <Fonts>ReadOnly</Fonts>
+  <Fonts>As</Fonts>
+  <Fonts>End</Fonts>
+  <Fonts>New</Fonts>
+  <Fonts>Protected</Fonts>
+  <Fonts>Inherits</Fonts>
+</FontToColorList>

@@ -1,0 +1,6 @@
+Bu klasör içindeki "myClass.pgd" & "myClass.pgs" & "myClass.rtf" adlý dosyalar bu program tarafýndan oluþturulmuþ "Save" dosyalarýdýr. Programý çalýþtýrýp bu dosyayý("myClass.pgd") açarak programýn kullanýmýný daha iyi anlayablirsiniz.. 
+
+Programda kullanýlan bütün dosyalar ve kaynak kodlarý bu klasör içindedir..
+
+Ýyi çalýþamalar..
+

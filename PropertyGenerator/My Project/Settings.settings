@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="VariableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Variable Name..</Value>
+    </Setting>
+    <Setting Name="VariableType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Variable Type...</Value>
+    </Setting>
+    <Setting Name="SubArrival" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Sub Arrival...</Value>
+    </Setting>
+    <Setting Name="SubType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Sub Type...</Value>
+    </Setting>
+    <Setting Name="FunctionType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Function Type...</Value>
+    </Setting>
+    <Setting Name="InheritanceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Inheritance...</Value>
+    </Setting>
+    <Setting Name="ImportName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Import...</Value>
+    </Setting>
+    <Setting Name="ClassName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Class Name...</Value>
+    </Setting>
+    <Setting Name="clmVariableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Variable Name</Value>
+    </Setting>
+    <Setting Name="clmVariableNameWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="clmVariableType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Variable Type</Value>
+    </Setting>
+    <Setting Name="clmVariableTypeWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="SubName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Write Sub Name...</Value>
+    </Setting>
+    <Setting Name="clmSubArrival" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sub Arrival</Value>
+    </Setting>
+    <Setting Name="clmSubArrivalWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="clmSubType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sub Type</Value>
+    </Setting>
+    <Setting Name="clmSubTypeWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="clmSubName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sub Name</Value>
+    </Setting>
+    <Setting Name="clmSubNameWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="clmSubParameterList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Parameters Of Sub</Value>
+    </Setting>
+    <Setting Name="clmSubParameterListWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="clmInheritanceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inheritance</Value>
+    </Setting>
+    <Setting Name="clmInheritanceNameWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="clmImportanceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Importance</Value>
+    </Setting>
+    <Setting Name="clmImportanceNameWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="clmReturnType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Return Type</Value>
+    </Setting>
+    <Setting Name="clmReturnTypeWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

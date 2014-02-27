@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Main>
+  <Row d2p1:rowID="" xmlns:d2p1="0">
+    <PropertyName>Ad</PropertyName>
+    <DataType>String</DataType>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="1">
+    <PropertyName>Soyad</PropertyName>
+    <DataType>String</DataType>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="2">
+    <PropertyName>TelNo</PropertyName>
+    <DataType>String</DataType>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="3">
+    <PropertyName>İmports</PropertyName>
+    <DataType>System</DataType>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="4">
+    <PropertyName>İmports</PropertyName>
+    <DataType>System.data</DataType>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="5">
+    <PropertyName>İmports</PropertyName>
+    <DataType>System.data.oledb</DataType>
+  </Row>
+</Main>
