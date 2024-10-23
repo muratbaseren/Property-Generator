@@ -393,7 +393,7 @@ Public Class ClassControl
         Me.lsvSubList.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize)
         Me.lsvVariableList.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize)
 
-        Dim Path As String = Application.StartupPath.ToString & "\"
+        Dim Path As String = Application.StartupPath.ToString & "\Xmls\"
 
         Me.dsLists.Tables("xml_VariableName").ReadXml(Path & "xml_VariableName.xml")
         Me.dsLists.Tables("xml_VariableType").ReadXml(Path & "xml_VariableType.xml")
